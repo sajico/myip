@@ -1,0 +1,15 @@
+{
+  "name": "myip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "myip": "index.js"
+  },
+  "scripts": {
+    "link": "npm link"
+  },
+  "keywords": [ ],
+  "author": "",
+  "license": "ISC"
+}
